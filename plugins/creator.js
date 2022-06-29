@@ -11,20 +11,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
-• Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• Owner Sering Sok Asik , Ladenin Aja Gpp Biar Dia Seneng Biasanya Dia Sadboy
+• Owner Jomblo Kalau Mau Pacarin Pacarin Ajah, Asal Jangan Mandang Fisik, Dia Jelek🗿
+• No Telp` wa.me/62895388375000
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* Danzz
-*ᴀɢᴇ:* Private
-*sᴛᴀᴛᴜs:* single 
+*ɴᴀᴍᴇ:* Kenichii
+*ᴀɢᴇ:* 14
+*sᴛᴀᴛᴜs:* Jomblo Abadi Gak Ada Yg Mau ") 
 
-*ʙɪʀᴛʜᴅᴀʏ:* Private
+*ʙɪʀᴛʜᴅᴀʏ:* 10 Feb 2008
 *ᴀᴅᴅʀᴇss:* Indonesia, Riau, Pekanbaru
 
 *- - sᴋɪʟʟs: - -* 
