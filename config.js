@@ -44,37 +44,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/memek_basah'
-global.sgh = 'https://github.com/DanzGantevk75'
-global.sgc = 'https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK'
-global.sdc = '-'
+global.sig = 'https://www.instagram.com/kenibotz_kenichi'
+global.sgh = 'https://github.com/Kenichi-BOTZ'
+global.sgc = 'https://chat.whatsapp.com/LBHHmgLnr9Y5q7ZkhGikkI'
+global.sdc = 'https://discord.gg/pQyvGSreGD'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088270863279'
-global.povo = '-'
-global.pgopay = '088270863279'
-global.ppulsa = '088270863279'
-global.ppulsa2 = '089519269447'
-global.psaweria = '-'
+global.pdana = '085161533232'
+global.povo = '085161533232'
+global.pgopay = '085161533232'
+global.ppulsa = '085161533232'
+global.ppulsa2 = '0895388375000'
+global.psaweria = 'https://saweria.co/HansCh'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882708632799'
-global.nomorown = '6288270863279'
-global.namebot = 'DanzBot-MD あ'
-global.nameown = 'Danzz'
+global.nomorbot = '6285161533232'
+global.nomorown = '62895388375000'
+global.namebot = 'KeniBotz-MD あ'
+global.nameown = 'Kenichii'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288270863279'],
-  ['6288270863279'],
-  ['6288270863279'],
-  ['6288270863279', 'Danzz', true]
+  ['62895388375000'],
+  ['62895388375000'],
+  ['62895388375000'],
+  ['62895388375000', 'Kenichii', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [62895388375000] // Want some help?
+global.prems = [62895388375000] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DanzBot-MD あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Danzz - 𝗕𝗢𝗧˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Danzz 𝗕𝗢𝗧'
+global.wm = '                「 KeniBotz-MD あ⁩ 」' //Main Watermark
+global.wm2 = 'Kenichi Md Project'
+global.wm3 = '⫹⫺ Kenichi 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
